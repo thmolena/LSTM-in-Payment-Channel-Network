@@ -1,3 +1,3 @@
 # LSTM-in-payment-channel-network
 
-Ph.D. Summer Research Internship in designing a sequence to sequence model on Time Series Data for Payment Channel Networks.
+Computer Science Ph.D. Summer Research Internship in designing sequence to sequence models on Time Series Data for Payment Channel Networks.
